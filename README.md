@@ -1,4 +1,6 @@
 
+[![Build Status](https://adramasu.visualstudio.com/sadasd/_apis/build/status/adramasu.pipelines-java?branchName=master)](https://adramasu.visualstudio.com/sadasd/_build/latest?definitionId=5&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
